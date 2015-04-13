@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ishowly:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ishowly.war">
+      <element id="artifact" artifact-name="ishowly:war exploded" />
+    </root>
+  </artifact>
+</component>
